@@ -1,4 +1,4 @@
-{
+[{
    "id":1,
    "nombre":"limpieza de cutis",
    "precio":1200,
@@ -51,4 +51,4 @@
    "nombre":"micropigmentación",
    "precio":7800,
    "img":"micropigmentacion.jpeg"
-}
+}]
